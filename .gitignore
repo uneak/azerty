@@ -1,4 +1,6 @@
 .idea
+/docker/volumes/*
+
 
 ###> symfony/framework-bundle ###
 /.env.local
@@ -9,3 +11,4 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
